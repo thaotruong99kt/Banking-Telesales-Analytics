@@ -62,5 +62,5 @@ The dashboard can be found at the Power BI link [here](https://app.powerbi.com/v
 ![insight](https://github.com/user-attachments/assets/2e808c12-d005-414d-b4f2-60b04a64d241)
 ![strategy](https://github.com/user-attachments/assets/8c22ecb6-3dad-478e-97a0-9b9a70ffebdf)
 
-# Techical Notes: 
-- Tool: Using Power BI for data handling and visualization.
+# Tool: 
+- Using Power BI for data handling and visualization.
