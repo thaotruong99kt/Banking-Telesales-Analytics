@@ -43,8 +43,8 @@ From the report, customers segment that have a high likelihood of subscribing to
   * Cellular: Has the highest proportion with a conversion rate of ~15%
   * Telephone: Only 5-7% of the conversion rate
 - History response:
-  * New/Never contacted customers: with 63.98%, the highest proportion of total contacts
-  * Re-contacted customers: With 36.02%. If customers had a positive "Success" response in the previous campaign, the possibility of success in this campaign is very high.
+  * New/Never contacted customers: Account for 63.98% of total subscriptions, the highest proportion of total contacts
+  * Re-contacted customers: Contributing 36.02% to the total subscriptions. Notably, if customers had a positive "Success" response in the previous campaign, the possibility of success in this campaign is very high.
  
 # Recommendations 
 1. Targeting:
