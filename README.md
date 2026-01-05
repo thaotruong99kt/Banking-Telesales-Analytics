@@ -5,7 +5,7 @@ This project focuses on analyzing data from telesales marketing from a Portugues
 - Business Goal: Increasing the number of customers subscribed to term deposits and optimizing the telesales strategy.
 - Method: Using descriptive analytics to identify potential customer segments  and evaluate the effectiveness of the calling method.
   
-# Data & Tools 
+# Data Overview
 - Datasource: [Moro et al., 2011] S. Moro, R. Laureano and P. Cortez. Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology. In P. Novais et al. (Eds.), Proceedings of the European Simulation and Modelling Conference - ESM'2011, pp. 117-121, Guimarães, Portugal, October, 2011. EUROSIS.
 - Number of Instances: 45,211 records
 - Target variable (y): Has the client subscribed to a term deposit? (Yes, No)
