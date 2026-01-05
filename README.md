@@ -1,4 +1,4 @@
-![strategy](https://github.com/user-attachments/assets/478e2d78-1fb7-4719-87f5-677a1de03990)## Term Deposit Campaign - Banking Telesales Analytics
+## Term Deposit Campaign - Banking Telesales Analytics
 
 # Project Overview 
 This project focuses on analyzing data from telesales marketing from a Portuguese banking institution. 
